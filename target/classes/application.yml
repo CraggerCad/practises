@@ -1,0 +1,3 @@
+#token:
+#  signingKey: secret
+#  validitySeconds: 100000
